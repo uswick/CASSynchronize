@@ -1,4 +1,4 @@
 CASSynchronize
 ==============
 
-A Simple busy wait synchronizer for threads and processes
+A Simple busy wait paradigm synchronizer for threads and processes
